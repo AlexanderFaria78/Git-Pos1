@@ -1,1 +1,2 @@
 linha qualquer
+alterado pelo repositório local
