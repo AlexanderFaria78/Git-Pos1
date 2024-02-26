@@ -1,2 +1,4 @@
 linha qualquer
 alterado pelo repositório local
+linha 2 alterado por outra pessoa.
+linha 3
